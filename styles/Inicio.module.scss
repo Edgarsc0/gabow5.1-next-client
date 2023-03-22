@@ -1,0 +1,48 @@
+.icon{
+    color: black !important;
+    height: 40px !important;
+    width: 40px !important;
+}
+
+.container{
+    top: 0px !important;
+    z-index: 1 !important;
+}
+
+.mo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    height: max-content;
+    background-color: #0d47a1;
+    border: 2px solid #ffffff;
+    box-shadow: 24;
+    padding: 32px;
+    border-radius: 15px;
+
+    text-align: center;
+}
+
+.input{
+    width: 250px;
+    label{
+        color: #ffffff !important;
+    }
+    input{
+        color: #ffffff !important;
+    }
+}
+
+.eye{
+    color: #ffffff !important;
+}
+
+.link{
+    color: #1e90ff ;
+}
+
+.error{
+    color: #ffffff;
+}
